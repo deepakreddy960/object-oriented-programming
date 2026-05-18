@@ -11,6 +11,6 @@ public class Product {
     String company;
     String category;
 
-    public Product(int i, String deepika, double v) {
+    public Product() {
     }
 }
