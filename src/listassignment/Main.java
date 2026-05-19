@@ -5,6 +5,6 @@ public class Main {
         ProductService service =new ProductService();
         service.add(new Product(1, "shoe", "shoe", 500));
         service.findAllProduct();
-        System.out.println("Execution finished.");
+        System.out.println("Execution  finished.");
     }
 }
